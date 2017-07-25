@@ -1,0 +1,361 @@
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Priority Queue, 100 threads
+Avg Turn Around 279332,3
+Avg Wait Time 278770,3
+Avg Response Time 254727,1
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Priority Queue, 200 threads
+Avg Turn Around 276579,1
+Avg Wait Time 276017,2
+Avg Response Time 232438,1
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Round Robin, 100 threads, quantum 4
+Avg Turn Around 298223,1
+Avg Wait Time 297661,1
+Avg Response Time 243818,5
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Round Robin, 200 threads, quantum 4
+Avg Turn Around 316743,2
+Avg Wait Time 316181,2
+Avg Response Time 210560,8
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Lottery, 100 threads
+Avg Turn Around 300925,4
+Avg Wait Time 300273,5
+Avg Response Time 300190,9
+Avg Service Time 564,34
+Processor Usage 100%
+Simulation Duration 613351
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: Lottery, 200 threads
+Avg Turn Around 309160,6
+Avg Wait Time 308510,8
+Avg Response Time 307906,7
+Avg Service Time 564,34
+Processor Usage 100%
+Simulation Duration 613351
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: HRRN, 100 threads
+Avg Turn Around 278205,1
+Avg Wait Time 277643,2
+Avg Response Time 277643,2
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario1.txt
+Algoritmo: HRRN, 200 threads
+Avg Turn Around 278205,1
+Avg Wait Time 277643,2
+Avg Response Time 277643,2
+Avg Service Time 562,99
+Processor Usage 100%
+Simulation Duration 562990
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Priority Queue, 100 threads
+Avg Turn Around 1358367
+Avg Wait Time 1357823
+Avg Response Time 1346509
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Priority Queue, 200 threads
+Avg Turn Around 1354051
+Avg Wait Time 1353508
+Avg Response Time 1331644
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Round Robin, 100 threads, quantum 4
+Avg Turn Around 1377075
+Avg Wait Time 1376529
+Avg Response Time 1323272
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Round Robin, 200 threads, quantum 4
+Avg Turn Around 1396122
+Avg Wait Time 1395577
+Avg Response Time 1289120
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Lottery, 100 threads
+Avg Turn Around 1483828
+Avg Wait Time 1483177
+Avg Response Time 1482658
+Avg Service Time 545,62
+Processor Usage 100%
+Simulation Duration 2979234
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: Lottery, 200 threads
+Avg Turn Around 1480649
+Avg Wait Time 1480034
+Avg Response Time 1479244
+Avg Service Time 545,63
+Processor Usage 100%
+Simulation Duration 2979240
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: HRRN, 100 threads
+Avg Turn Around 1357835
+Avg Wait Time 1357292
+Avg Response Time 1357292
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario2.txt
+Algoritmo: HRRN, 200 threads
+Avg Turn Around 1357835
+Avg Wait Time 1357292
+Avg Response Time 1357292
+Avg Service Time 544,14
+Processor Usage 100%
+Simulation Duration 2720699
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Priority Queue, 100 threads
+Avg Turn Around 2715942
+Avg Wait Time 2715400
+Avg Response Time 2712158
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Priority Queue, 200 threads
+Avg Turn Around 2719893
+Avg Wait Time 2719351
+Avg Response Time 2711291
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Round Robin, 100 threads, quantum 4
+Avg Turn Around 2741300
+Avg Wait Time 2740755
+Avg Response Time 2687417
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Round Robin, 200 threads, quantum 4
+Avg Turn Around 2760470
+Avg Wait Time 2759932
+Avg Response Time 2652996
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Lottery, 100 threads
+Avg Turn Around 2960813
+Avg Wait Time 2960211
+Avg Response Time 2959413
+Avg Service Time 543,33
+Processor Usage 100%
+Simulation Duration 5953503
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: Lottery, 200 threads
+Avg Turn Around 2959592
+Avg Wait Time 2958917
+Avg Response Time 2958416
+Avg Service Time 543,33
+Processor Usage 100%
+Simulation Duration 5953503
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: HRRN, 100 threads
+Avg Turn Around 2722119
+Avg Wait Time 2721576
+Avg Response Time 2721576
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario3.txt
+Algoritmo: HRRN, 200 threads
+Avg Turn Around 2722119
+Avg Wait Time 2721576
+Avg Response Time 2721576
+Avg Service Time 543,6
+Processor Usage 100%
+Simulation Duration 5435975
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Priority Queue, 100 threads
+Avg Turn Around 5462916
+Avg Wait Time 5462369
+Avg Response Time 5459636
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Priority Queue, 200 threads
+Avg Turn Around 5467633
+Avg Wait Time 5467085
+Avg Response Time 5461631
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Round Robin, 100 threads, quantum 4
+Avg Turn Around 5482777
+Avg Wait Time 5482230
+Avg Response Time 5428364
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Round Robin, 200 threads, quantum 4
+Avg Turn Around 5502578
+Avg Wait Time 5502028
+Avg Response Time 5393893
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Lottery, 100 threads
+Avg Turn Around 5975581
+Avg Wait Time 5975032
+Avg Response Time 5974648
+Avg Service Time 550,57
+Processor Usage 100%
+Simulation Duration 12013352
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: Lottery, 200 threads
+Avg Turn Around 5968026
+Avg Wait Time 5967328
+Avg Response Time 5966456
+Avg Service Time 550,59
+Processor Usage 100%
+Simulation Duration 12013353
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: HRRN, 100 threads
+Avg Turn Around 5463137
+Avg Wait Time 5462591
+Avg Response Time 5462591
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario4.txt
+Algoritmo: HRRN, 200 threads
+Avg Turn Around 5463137
+Avg Wait Time 5462591
+Avg Response Time 5462591
+Avg Service Time 548,23
+Processor Usage 100%
+Simulation Duration 10964619
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Priority Queue, 100 threads
+Avg Turn Around 13731220
+Avg Wait Time 13730670
+Avg Response Time 13730130
+Avg Service Time 549,19
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Priority Queue, 200 threads
+Avg Turn Around 13734370
+Avg Wait Time 13733820
+Avg Response Time 13732180
+Avg Service Time 549,19
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Round Robin, 100 threads, quantum 4
+Avg Turn Around 13750090
+Avg Wait Time 13749540
+Avg Response Time 13695530
+Avg Service Time 549,2
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Round Robin, 200 threads, quantum 4
+Avg Turn Around 13769900
+Avg Wait Time 13769370
+Avg Response Time 13660880
+Avg Service Time 549,19
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Lottery, 100 threads
+Avg Turn Around 14994770
+Avg Wait Time 14994190
+Avg Response Time 14993670
+Avg Service Time 553,45
+Processor Usage 100%
+Simulation Duration 30047778
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: Lottery, 200 threads
+Avg Turn Around 14990490
+Avg Wait Time 14989880
+Avg Response Time 14989200
+Avg Service Time 553,45
+Processor Usage 100%
+Simulation Duration 30047773
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: HRRN, 100 threads
+Avg Turn Around 13730420
+Avg Wait Time 13729870
+Avg Response Time 13729870
+Avg Service Time 549,19
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Rodando para entrada: Entrada\cenario5.txt
+Algoritmo: HRRN, 200 threads
+Avg Turn Around 13730420
+Avg Wait Time 13729870
+Avg Response Time 13729870
+Avg Service Time 549,19
+Processor Usage 100%
+Simulation Duration 27459597
+-------------------------------------------------
+Programa finalizou

@@ -1,0 +1,12 @@
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.exe.config
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.exe
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.pdb
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.csprojResolveAssemblyReference.cache
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.exe
+c:\users\h_danilo\documents\visual studio 2015\Projects\SO_escalonamento_prioridade\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.pdb
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.exe.config
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.exe
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.pdb
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.exe
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\bin\Debug\SO_escalonamento_prioridade.pdb
+Z:\Meus Documentos 2\Nane\CC 2013\2016.2\SO\SO_escalonamento_codigo\SO_escalonamento_prioridade\obj\Debug\SO_escalonamento_prioridade.csprojResolveAssemblyReference.cache
